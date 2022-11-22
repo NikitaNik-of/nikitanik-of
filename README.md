@@ -1,3 +1,5 @@
+![Без имени-1](https://user-images.githubusercontent.com/58265507/203340635-e92f744b-7ad8-487f-a6b2-5eb682a9061e.png)
+
 `проекты`
 - [nn-of.ru](https://nn-of.ru) мой персональный веб-сайт
 - [/python](https://github.com/NikitaNik-of/Python) - основная папка для хранения "процесса" обучения

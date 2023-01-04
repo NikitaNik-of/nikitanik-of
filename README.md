@@ -1,4 +1,4 @@
-![Без имени-1](https://user-images.githubusercontent.com/58265507/203340635-e92f744b-7ad8-487f-a6b2-5eb682a9061e.png)
+![Без имени-1](https://user-images.githubusercontent.com/58265507/210650689-2e4fc19a-cb87-4b44-b243-afbc41d07a66.png)
 
 `проекты`
 - [nn-of.ru](https://github.com/NikitaNik-of/nnof-site) мой персональный веб-сайт

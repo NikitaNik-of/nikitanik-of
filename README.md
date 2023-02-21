@@ -2,11 +2,12 @@
 
 `проекты`
 - [nn-of.ru](https://github.com/NikitaNik-of/nnof-site) мой персональный веб-сайт
-- [/python](https://github.com/NikitaNik-of/Python) - основная папка для хранения "процесса" обучения
+- [/python](https://github.com/NikitaNik-of/Python) - хранение "процесса" обучения на Python
+- [/C++](https://github.com/NikitaNik-of/cpp) - хранение "процесса" обучения на плюсах
 
 `minecraft`
 - [NPL Studio](https://github.com/NPL-Studio) - Со-основатель команды по созданию карт
-- [DebbikCraft](https://github.com/NPL-Studio) - Основатель ванильно-приватного сервера на версии 1.19.2
+- [DebbikCraft](https://github.com/NPL-Studio) - Основатель ванильно-приватного сервера на версии 1.19.3
 
  ---
 
